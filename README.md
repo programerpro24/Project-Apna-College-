@@ -1,2 +1,2 @@
 # Project: Apna College
-This is my clone project
+This is my clone project.
